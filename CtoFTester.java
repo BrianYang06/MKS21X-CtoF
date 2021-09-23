@@ -3,8 +3,6 @@
 
 public class CtoFTester{
   public static void main(String args[]){
-    CelsiustoFahrenheit(1);
-    FahrenheittoCelsius(1);
     System.out.print("It is ");
     System.out.print(CelsiustoFahrenheit(1));
     System.out.println("Fahrenheit");
